@@ -10,6 +10,8 @@ namespace BinarySearchTree
     {
         static void Main(string[] args)
         {
+            BinarySearchTree Test = new BinarySearchTree();
+
         }
     }
 }
